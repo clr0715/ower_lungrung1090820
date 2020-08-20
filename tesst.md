@@ -9,7 +9,13 @@
 ## * 內建函數
 ## * 特殊
 
-### 3
+# 3.程式流程:決策 | 迴圈
+
+
+# 4.函數開發
+
+
+# 5.簡單應用
 
 ```
 x, y, z = [int(x) for x in input("Enter three value: ").split()] 
